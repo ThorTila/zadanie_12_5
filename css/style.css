@@ -1,0 +1,15 @@
+body { margin: 0; }
+
+main { text-align: center; height: 100vh; background: #607D8B; color: white; }
+
+header { padding: 2% 0; }
+
+h1 { margin: 0; }
+
+button { border: none; padding: 1%; margin-right: 20%; font-weight: bold; color: white; background: #448AFF; display: block; margin: 2% auto; cursor: pointer; border-radius: 5px; }
+
+button:hover { background: #5e9aff; }
+
+a { text-decoration: none; color: inherit; }
+
+a i { color: #00aced; }
